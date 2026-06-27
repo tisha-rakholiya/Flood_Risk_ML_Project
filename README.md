@@ -21,6 +21,8 @@ Floods are one of the most devastating natural disasters. This project uses a **
 
 ---
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/tisharakholiyaa/flood-risk-prediction-ml-randomforest)
+
 ## 🎯 Model Performance
 
 | Metric | Score |
